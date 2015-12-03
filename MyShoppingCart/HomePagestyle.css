@@ -1,0 +1,104 @@
+﻿body {
+    position: relative; 
+}
+    
+/*SECTION ONE*/  
+#section1 {
+    padding-top:50px; 
+    background-color: #FFFFFF;
+    margin-bottom: 50px;
+}
+
+.jumbotron p {
+    margin-top: auto;
+    margin-bottom: 10px;
+    font-size: 21px;
+    font-weight: 200;
+}
+
+/*SECTION TWO*/
+#section2 {
+    padding-top:50px;
+    color: #fff; 
+    background-color: #339933;
+}
+
+/*FOOTER SECTION*/
+.footer {
+    margin: 20px 0px 10px;
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.footer p {
+  text-align:  center;
+  font-family: 'Poppins', sans-serif;
+}
+.footer p a {
+ color: #8AB839;
+ font-family: 'Poppins', sans-serif;
+}
+
+/*CSS ANIMATION*/
+#road
+{
+position: relative;
+height:80px;
+background: url(Img/road.png);
+width:400px;
+}
+
+#car {
+    position: absolute; 
+    bottom:30px; 
+    left: 20px; 
+}
+
+.car_img  {
+    -webkit-transition: 2s ease-in-out;
+}
+
+.car_img:hover {
+    -webkit-transform: translate(150px,0px);
+}
+
+#map-canvas
+{
+  height: 150px;
+}
+
+#map-outer 
+{  
+  height: 240px; 
+  padding: 20px; 
+  border: 2px solid #CCC; 
+  margin-bottom: 20px; 
+  background-color:#FFF;
+}
+
+#map-container 
+{ 
+  height: 200px 
+}
+
+/*ADDRESS*/
+.address {
+    text-align:center;
+}
+
+/*SCROLL BUTTON*/
+.back-to-top {
+    position: fixed;
+    bottom: 2em;
+    right: 0px;
+    text-decoration: none;
+    color: #000000;
+    background-color: rgba(235, 235, 235, 0.80);
+    font-size: 12px;
+    padding: 1em;
+    display: none;
+}
+
+.back-to-top:hover {    
+    background-color: rgba(135, 135, 135, 0.50);
+}

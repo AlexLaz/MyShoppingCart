@@ -1,0 +1,67 @@
+﻿body {
+    position: relative;
+}
+
+#apple {
+     background-image: url(Img/mila.jpg);
+}
+
+#section3 {
+    padding-top:50px;
+}
+
+.panel-success {
+    height:90px;
+    width:250px;
+}
+
+#section4 {
+    padding-top:5px;
+    color: #fff; 
+    background-color: #339933;
+}
+
+#section5 {
+    padding-top:5px;
+    color: #000000 ; 
+    background-color: #fff;
+}
+
+#section6 {
+    padding-top:5px;
+    color: #fff; 
+    background-color: #339933;
+}
+
+/*FOOTER SECTION*/
+.footer {
+    margin: 20px 0px 10px;
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.footer p {
+  text-align:  center;
+  font-family: 'Poppins', sans-serif;
+}
+.footer p a {
+ color: #8AB839;
+ font-family: 'Poppins', sans-serif;
+}
+
+/*SCROLL BUTTON*/
+.back-to-top {
+    position: fixed;
+    bottom: 2em;
+    right: 0px;
+    text-decoration: none;
+    color: #000000;
+    background-color: rgba(235, 235, 235, 0.80);
+    font-size: 12px;
+    padding: 1em;
+    display: none;
+}
+
+.back-to-top:hover {    
+    background-color: rgba(135, 135, 135, 0.50);
+}

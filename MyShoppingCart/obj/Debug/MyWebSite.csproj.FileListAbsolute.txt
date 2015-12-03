@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\MyWebSite\MyWebSite\bin\MyWebSite.dll.config
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\MyWebSite\MyWebSite\bin\MyWebSite.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\MyWebSite\MyWebSite\bin\MyWebSite.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\MyWebSite\MyWebSite\obj\Debug\MyWebSite.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\MyWebSite\MyWebSite\obj\Debug\MyWebSite.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\C#\MyWebSite\MyWebSite\bin\MyWebSite.dll.config
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\C#\MyWebSite\MyWebSite\bin\MyWebSite.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\C#\MyWebSite\MyWebSite\bin\MyWebSite.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\C#\MyWebSite\MyWebSite\obj\Debug\MyWebSite.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\C#\MyWebSite\MyWebSite\obj\Debug\MyWebSite.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\C#\MyWebSite\MyWebSite\obj\Debug\MyWebSite.csprojResolveAssemblyReference.cache
